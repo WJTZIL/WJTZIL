@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 It's me WJTZIL. 😄
-Those programmers: @KRR1751 (from **Czech Republic**🇨🇿)
 
 What conutry I am from:
 Poland 🇵🇱
