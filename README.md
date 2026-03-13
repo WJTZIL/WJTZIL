@@ -7,7 +7,7 @@ It's me WJTZIL. 😄
 What conutry I am from:
 Poland 🇵🇱
 
-Languages (not programming languages) that i know:
+Languages (*not programming languages*) that i know:
 <p>🇵🇱 Polish</p>
 <p>🇬🇧/🇺🇸 English</p>
 <p>🇩🇪 German</p>
