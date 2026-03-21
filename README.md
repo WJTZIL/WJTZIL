@@ -11,3 +11,9 @@ Languages (*not programming languages*) that i know:
 <p>🇵🇱 Polish</p>
 <p>🇬🇧/🇺🇸 English</p>
 <p>🇩🇪 German</p>
+
+## What other projects i make?
+Something about cleaning temp folder.
+Or something different.
+
+Maybe a python script that will act like a virus?
