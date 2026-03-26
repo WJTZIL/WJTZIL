@@ -10,11 +10,9 @@ Poland 🇵🇱
 
 Languages (*not programming languages*) that i know:
 <p>🇵🇱 Polish</p>
-<p>🇬🇧/🇺🇸 English</p>
-<p>🇩🇪 German</p>
+<p>🇬🇧/🇺🇸 English (learning from duolingo, school)</p>
+<p>🇩🇪 German (a little, learning from duolingo)</p>
 
 ## What other projects i make?
-Something about cleaning temp folder.
-Or something different.
-
+I dont know I have ran out of ideas 😐
 Maybe a python script that will act like a virus?
