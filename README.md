@@ -16,3 +16,11 @@ Languages (*not programming languages*) that i know:
 ## What other projects i make?
 I dont know I have ran out of ideas 😐
 Maybe a python script that will act like a virus?
+
+## What i'm focusing there 📂😏
+<p>My website</p>
+
+
+## Extra note from WJTZIL!
+Follow me 😄
+Just for some reason 😜
