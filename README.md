@@ -19,6 +19,7 @@ Maybe a python script that will act like a virus?
 
 ## What i'm focusing there 📂😏
 <p>My website</p>
+<p>Something that nobody expected 🤫</p>
 
 
 ## Extra note from WJTZIL!
