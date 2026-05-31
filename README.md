@@ -20,3 +20,10 @@ CPU: AMD Ryzen 7535HS (*with Radoen Graphics*)<br>
 RAM: 16 GB<br>
 Same SSD 1TB<br>
 GPU: NVIDIA GeForce RTX 3050 Laptop GPU (*for hella gaming and productivy*)
+
+## Some *RANDOM* Repos
+<a href="https://github.com/WJTZIL/CVMShit">Forked CVMShit</a>
+<a href="https://github.com/WJTZIL/Syszil">Syszil</a>
+
+## Extra text
+how does pspguy and clutter get banned 💀
