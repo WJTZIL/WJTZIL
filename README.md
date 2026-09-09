@@ -21,5 +21,4 @@ RAM: 16 GB<br>
 Same SSD 1TB<br>
 GPU: NVIDIA GeForce RTX 3050 Laptop GPU (*for hella gaming and productivy*)
 
-## Some *RANDOM* Repos
-<a href="https://github.com/WJTZIL/Syszil">Syszil</a>
+## Check out <a href="https://www.github.com/WJTZIL/nava/">Nava Browser</a>!
