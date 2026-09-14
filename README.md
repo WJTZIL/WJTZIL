@@ -19,7 +19,7 @@ Portable External HDD 1TB
 CPU: AMD Ryzen 7535HS (*with Radoen Graphics*)<br>
 RAM: 16 GB<br>
 Same SSD 1TB<br>
-GPU: NVIDIA GeForce RTX 3050 Laptop GPU (*for hella gaming and productivy*)
+GPU: NVIDIA GeForce RTX 3050 Laptop GPU
 
 #### Check out <a href="https://www.github.com/WJTZIL/nava/">Nava Browser</a>!
 
