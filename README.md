@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 It's me WJTZIL. 😄
-You might know me from: <a href="https://www.planetminecraft.com/member/wjtzil/">Planet Minecraft</a>
+You might know me from: <a href="https://www.planetminecraft.com/member/wjtzil/">Planet Minecraft</a> or Discord.
 
 What conutry I am from:
 Poland 🇵🇱
