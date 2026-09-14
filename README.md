@@ -21,4 +21,8 @@ RAM: 16 GB<br>
 Same SSD 1TB<br>
 GPU: NVIDIA GeForce RTX 3050 Laptop GPU (*for hella gaming and productivy*)
 
-## Check out <a href="https://www.github.com/WJTZIL/nava/">Nava Browser</a>!
+#### Check out <a href="https://www.github.com/WJTZIL/nava/">Nava Browser</a>!
+
+#### Coolest ppl ever lived 😎
+<a href="https://github.com/MrMarlon2210-jpg">Marlon2210</a>
+<a href="https://github.com/ozyrionhaha">Ozy</a>
